@@ -1,0 +1,2 @@
+input_file=input/test.txt
+output_file=output/test_partoche.xlsx
